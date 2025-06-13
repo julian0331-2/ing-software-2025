@@ -14,3 +14,6 @@ Segundo la Gestion de Cobro y Facturación: donde se puedan manejar el flujo de 
 Gestion de Reserva: donde se pueda reservar una mesa con antelación y poder asignarlas también.
 
 Gestion de Inventario: donde se gestiona el stock disponible.
+
+
+z
