@@ -15,5 +15,3 @@ Gestion de Reserva: donde se pueda reservar una mesa con antelación y poder asi
 
 Gestion de Inventario: donde se gestiona el stock disponible.
 
-
-z
